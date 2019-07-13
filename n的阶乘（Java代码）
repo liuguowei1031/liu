@@ -2,7 +2,7 @@ public class example2 {
 	public static void main(String[] args) {
 		int n=3;
 		int fact=fact(n);
-		System.out.println(n+"�Ľ׳˵���"+fact);
+		System.out.println(n+"µÄ½×³ËµÈÓÚ"+fact);
 	}
 	public static int fact(int n)
 	{
