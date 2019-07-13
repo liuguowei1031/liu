@@ -1,0 +1,10 @@
+package mlh;
+
+public class test2 {
+
+	public static void main(String[] args) {
+		Calculater cal1=new Calculater(6,5);
+		System.out.println("add:"+cal1.add()+"jian:"+cal1.jian()+"cheng:"+cal1.cheng()+"chu:"+cal1.chu());
+		}
+
+}
